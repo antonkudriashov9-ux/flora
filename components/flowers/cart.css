@@ -1,0 +1,67 @@
+.cart-dialog {
+  --cart-bg: #fbf9f6;
+  --cart-ink: #2e2928;
+  --cart-accent: #742d3d;
+  --cart-border: #e3ddd8;
+  position: fixed;
+  inset: 0 0 0 auto;
+  margin: 0;
+  padding: 0;
+  width: min(100%, 560px);
+  max-width: 100%;
+  height: 100dvh;
+  max-height: 100dvh;
+  border: 0;
+  background: var(--cart-bg);
+  color: var(--cart-ink);
+  font: 400 16px/1.5 var(--font-golos, sans-serif);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+.cart-dialog::backdrop { background: rgb(46 41 40 / 45%); }
+.cart-dialog * { box-sizing: border-box; }
+.cart-dialog .cart-panel { min-height: 100%; padding: 28px 32px max(32px, env(safe-area-inset-bottom)); }
+.cart-dialog .cart-header { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.cart-dialog h2, .cart-dialog h3 { font-family: Georgia, serif; font-weight: 400; line-height: 1.2; margin: 0; }
+.cart-dialog h2 { font-size: 32px; }
+.cart-dialog h3 { font-size: 24px; }
+.cart-dialog p { margin: 12px 0; }
+.cart-dialog .cart-muted { font-size: 14px; color: #665b57; }
+.cart-dialog button, .cart-dialog input, .cart-dialog textarea { font: inherit; color: inherit; }
+.cart-dialog button { cursor: pointer; }
+.cart-dialog button:disabled { opacity: .45; cursor: not-allowed; }
+.cart-dialog :focus-visible { outline: 2px solid var(--cart-accent); outline-offset: 3px; }
+.cart-dialog .cart-icon { display: inline-flex; justify-content: center; align-items: center; flex-shrink: 0; width: 44px; height: 44px; padding: 0; border: 1px solid var(--cart-border); border-radius: 50%; background: transparent; }
+.cart-dialog .cart-items { list-style: none; padding: 0; margin: 24px 0 0; }
+.cart-dialog .cart-item { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 16px; padding: 24px 0; border-bottom: 1px solid var(--cart-border); }
+.cart-dialog .cart-item h3 { font-size: 22px; overflow-wrap: anywhere; }
+.cart-dialog .cart-item p { font-size: 14px; margin: 8px 0 0; }
+.cart-dialog .cart-quantity { display: flex; align-items: center; gap: 8px; }
+.cart-dialog .cart-quantity input { width: 52px; min-height: 44px; border: 1px solid var(--cart-border); text-align: center; background: transparent; border-radius: 4px; }
+.cart-dialog .cart-line-total { text-align: right; font-variant-numeric: tabular-nums; }
+.cart-dialog .cart-subtotal { display: flex; justify-content: space-between; gap: 16px; margin-top: 24px; font-size: 18px; }
+.cart-dialog .cart-text-button { background: transparent; border: 0; padding: 12px 0; color: var(--cart-accent); text-decoration: underline; text-underline-offset: 4px; min-height: 44px; }
+.cart-dialog .cart-form, .cart-dialog .cart-summary { margin-top: 32px; padding-top: 28px; border-top: 1px solid var(--cart-border); }
+.cart-dialog .cart-form { display: grid; gap: 18px; }
+.cart-dialog .cart-form p { margin: 0; }
+.cart-dialog .cart-form label { display: grid; gap: 8px; }
+.cart-dialog .cart-form input:not([type="radio"]), .cart-dialog textarea { width: 100%; min-width: 0; min-height: 48px; padding: 10px 12px; background: transparent; border: 1px solid var(--cart-border); border-radius: 4px; }
+.cart-dialog textarea { resize: vertical; }
+.cart-dialog fieldset { display: flex; flex-wrap: wrap; gap: 12px 24px; border: 0; padding: 0; margin: 0; }
+.cart-dialog legend { margin-bottom: 8px; }
+.cart-dialog fieldset label { display: flex; align-items: center; min-height: 44px; }
+.cart-dialog input[type="radio"] { width: 20px; height: 20px; accent-color: var(--cart-accent); }
+.cart-dialog .cart-primary { background: var(--cart-accent); color: var(--cart-bg); border: 1px solid var(--cart-accent); border-radius: 4px; min-height: 48px; padding: 12px 20px; }
+.cart-dialog .cart-summary dl { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); gap: 12px 16px; }
+.cart-dialog .cart-summary dd { margin: 0; overflow-wrap: anywhere; white-space: pre-wrap; }
+.cart-dialog .cart-summary ul { padding-left: 22px; overflow-wrap: anywhere; }
+.cart-dialog .cart-empty { padding: 48px 0; }
+@media (hover: hover) {
+  .cart-dialog .cart-icon:hover:not(:disabled) { background: var(--cart-border); }
+  .cart-dialog .cart-primary:hover { background: #5e2431; }
+}
+@media (max-width: 560px) {
+  .cart-dialog { width: 100%; }
+  .cart-dialog .cart-panel { padding: 20px max(20px, env(safe-area-inset-right)) max(24px, env(safe-area-inset-bottom)) max(20px, env(safe-area-inset-left)); }
+  .cart-dialog h2 { font-size: 28px; }
+}

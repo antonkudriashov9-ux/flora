@@ -1,0 +1,476 @@
+[
+  {
+    "id": 14871075,
+    "name": "Необыкновеные коробка сумочка",
+    "description": "Сумочка наполнена разными цветами .",
+    "price": 1200,
+    "oldPrice": null,
+    "category": "Корзины и коробки",
+    "images": [
+      "/flowers/product-14871075-1.webp"
+    ]
+  },
+  {
+    "id": 14871068,
+    "name": "Страсть",
+    "description": "Кустовая хризантема сезонные осенние цветы георгины и кустовая роза",
+    "price": 3300,
+    "oldPrice": null,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-14871068-1.webp"
+    ]
+  },
+  {
+    "id": 14871063,
+    "name": "Нежная корзина",
+    "description": "Корзина диаметром 0.7м . Наполнена стойкими цветами хризантема, альстромерия, эустома(лизиантус) немного роскошных роз",
+    "price": 5500,
+    "oldPrice": null,
+    "category": "Корзины и коробки",
+    "images": [
+      "/flowers/product-14871063-1.webp",
+      "/flowers/product-14871063-2.webp"
+    ]
+  },
+  {
+    "id": 14721463,
+    "name": "Бабочка",
+    "description": "Бабочка летний букет.",
+    "price": 3500,
+    "oldPrice": null,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-14721463-1.webp"
+    ]
+  },
+  {
+    "id": 14721462,
+    "name": "Свадебный букет",
+    "description": "Антуриумы, эустома, кустовая роза. Роскошь в одном букете",
+    "price": 6000,
+    "oldPrice": null,
+    "category": "Свадебные",
+    "images": [
+      "/flowers/product-14721462-1.webp"
+    ]
+  },
+  {
+    "id": 14645157,
+    "name": "Букет из 11 шт хризантем",
+    "description": "11шт хризантем в очень красивой упаковке кравт и кружево. Нежный и элегантный букет.",
+    "price": 2000,
+    "oldPrice": 2500,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-14645157-1.webp",
+      "/flowers/product-14645157-2.webp"
+    ]
+  },
+  {
+    "id": 14641025,
+    "name": "Крем шоколад",
+    "description": "Кустовые розы два вида и розы одноголовые конделайт",
+    "price": 3500,
+    "oldPrice": null,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-14641025-1.webp",
+      "/flowers/product-14641025-2.webp"
+    ]
+  },
+  {
+    "id": 14641021,
+    "name": "Букет в сумке",
+    "description": "Букет в сумке в прозрачной и 17 роз по 80руб.",
+    "price": 2500,
+    "oldPrice": null,
+    "category": "Корзины и коробки",
+    "images": [
+      "/flowers/product-14641021-1.webp",
+      "/flowers/product-14641021-2.webp"
+    ]
+  },
+  {
+    "id": 14641017,
+    "name": "Розы ред пионо",
+    "description": "Кустовые розы  сорт ред пиано пионовидные.",
+    "price": 7500,
+    "oldPrice": null,
+    "category": "Розы",
+    "images": [
+      "/flowers/product-14641017-1.webp",
+      "/flowers/product-14641017-2.webp"
+    ]
+  },
+  {
+    "id": 14627757,
+    "name": "Корзинка",
+    "description": "5роз, хризантема, кустовые розы, гербера",
+    "price": 5000,
+    "oldPrice": 6500,
+    "category": "Корзины и коробки",
+    "images": [
+      "/flowers/product-14627757-1.webp",
+      "/flowers/product-14627757-2.webp",
+      "/flowers/product-14627757-3.webp"
+    ]
+  },
+  {
+    "id": 14614548,
+    "name": "Букет гигант нежности",
+    "description": "Лилия, розы, розы Вегги, кустовая роза, эустома",
+    "price": 8500,
+    "oldPrice": null,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-14614548-1.webp",
+      "/flowers/product-14614548-2.webp",
+      "/flowers/product-14614548-3.webp"
+    ]
+  },
+  {
+    "id": 14543080,
+    "name": "Розы",
+    "description": "Розы и оксипиталум  , эвкалипт",
+    "price": 1000,
+    "oldPrice": 1500,
+    "category": "Розы",
+    "images": [
+      "/flowers/product-14543080-1.webp",
+      "/flowers/product-14543080-2.webp",
+      "/flowers/product-14543080-3.webp"
+    ]
+  },
+  {
+    "id": 14543076,
+    "name": "Корзина",
+    "description": "Корзина из хризантемы, кустовой розы и розы одноголовый.",
+    "price": 5500,
+    "oldPrice": 6000,
+    "category": "Корзины и коробки",
+    "images": [
+      "/flowers/product-14543076-1.webp",
+      "/flowers/product-14543076-2.webp"
+    ]
+  },
+  {
+    "id": 14415342,
+    "name": "Зефирный букет",
+    "description": "Хризантема кустовая и гипсафила",
+    "price": 1500,
+    "oldPrice": 1750,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-14415342-1.webp",
+      "/flowers/product-14415342-2.webp"
+    ]
+  },
+  {
+    "id": 14415330,
+    "name": "Букет нежность",
+    "description": "Хризантема кустовая,  Хризантема  одноголовая, и кустовые розы",
+    "price": 2500,
+    "oldPrice": 2750,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-14415330-1.webp",
+      "/flowers/product-14415330-2.webp",
+      "/flowers/product-14415330-3.webp"
+    ]
+  },
+  {
+    "id": 14412789,
+    "name": "Букет из хризантемы",
+    "description": "Хризантема и гипсафила",
+    "price": 1000,
+    "oldPrice": 1200,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-14412789-1.webp"
+    ]
+  },
+  {
+    "id": 14412788,
+    "name": "51 роза",
+    "description": "Розы могут быть разного цвета и длины. От этого зависет цена",
+    "price": 5500,
+    "oldPrice": 6500,
+    "category": "Розы",
+    "images": [
+      "/flowers/product-14412788-1.webp"
+    ]
+  },
+  {
+    "id": 14412781,
+    "name": "Бует из роз с оксипиталум цвет роз может быть любым",
+    "description": "Розы с оксипиталум  и эвкалиптом",
+    "price": 1000,
+    "oldPrice": 1500,
+    "category": "Розы",
+    "images": [
+      "/flowers/product-14412781-1.webp"
+    ]
+  },
+  {
+    "id": 14360006,
+    "name": "Букет из роз",
+    "description": "Букет из роз.\n25роз =2500руб\n31роз = 3000руб\n51роз= 5000руб\n101роза =8000руб до 15000 (зависет от высоты роз)",
+    "price": 3500,
+    "oldPrice": null,
+    "category": "Розы",
+    "images": [
+      "/flowers/product-14360006-1.webp"
+    ]
+  },
+  {
+    "id": 14054893,
+    "name": "Букет три розы 40см",
+    "description": "Букет из 3 роз 40см .",
+    "price": 500,
+    "oldPrice": null,
+    "category": "Розы",
+    "images": [
+      "/flowers/product-14054893-1.webp",
+      "/flowers/product-14054893-2.webp"
+    ]
+  },
+  {
+    "id": 14003259,
+    "name": "Кустовые розы Пич Даймешенс",
+    "description": "Пионовидные  розы",
+    "price": 3150,
+    "oldPrice": 3600,
+    "category": "Розы",
+    "images": [
+      "/flowers/product-14003259-1.webp",
+      "/flowers/product-14003259-2.webp"
+    ]
+  },
+  {
+    "id": 14003258,
+    "name": "Букет 65 роз",
+    "description": "Закажите букет из роз по приятной цене 80руб за шт. Заказы принимаем до 5 марта.",
+    "price": 5200,
+    "oldPrice": 6500,
+    "category": "Розы",
+    "images": [
+      "/flowers/product-14003258-1.webp",
+      "/flowers/product-14003258-2.webp"
+    ]
+  },
+  {
+    "id": 13861461,
+    "name": "Букет",
+    "description": "Букет из хризантемы  и кустовой розы",
+    "price": 2100,
+    "oldPrice": 2500,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-13861461-1.webp",
+      "/flowers/product-13861461-2.webp",
+      "/flowers/product-13861461-3.webp"
+    ]
+  },
+  {
+    "id": 13861454,
+    "name": "Коробочка",
+    "description": "Коробочка из хризантемы,  роз, гипсафилы",
+    "price": 800,
+    "oldPrice": null,
+    "category": "Корзины и коробки",
+    "images": [
+      "/flowers/product-13861454-1.webp"
+    ]
+  },
+  {
+    "id": 13861446,
+    "name": "букет",
+    "description": "Хризантема кустовая, диантус, Роза кустовая, роза одноголовая , альстромерия,  эвкалипт",
+    "price": 2500,
+    "oldPrice": null,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-13861446-1.webp",
+      "/flowers/product-13861446-2.webp",
+      "/flowers/product-13861446-3.webp"
+    ]
+  },
+  {
+    "id": 12669212,
+    "name": "Букет из роз 25шт",
+    "description": "Монобукет из роскошных розы с красивым бутоном, разного цвета. Дизайнерская упаковка.",
+    "price": 2600,
+    "oldPrice": null,
+    "category": "Розы",
+    "images": [
+      "/flowers/product-12669212-1.webp",
+      "/flowers/product-12669212-2.webp"
+    ]
+  },
+  {
+    "id": 12408910,
+    "name": "Коробка",
+    "description": "Коробка с цветами, розы,альстромерия, хризантема, гипсафила, эустома",
+    "price": 5000,
+    "oldPrice": null,
+    "category": "Корзины и коробки",
+    "images": [
+      "/flowers/product-12408910-1.webp"
+    ]
+  },
+  {
+    "id": 12408906,
+    "name": "Букет осень",
+    "description": "Розы, 🌻 подсолнух, альстромерия, хризантема, кустовые розы",
+    "price": 3000,
+    "oldPrice": null,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-12408906-1.webp"
+    ]
+  },
+  {
+    "id": 12408904,
+    "name": "Коробка розы и эустома",
+    "description": "Коробка кусторвые розы 35шт +эустома 16шт, и эвкалипт",
+    "price": 17000,
+    "oldPrice": null,
+    "category": "Корзины и коробки",
+    "images": [
+      "/flowers/product-12408904-1.webp",
+      "/flowers/product-12408904-2.webp",
+      "/flowers/product-12408904-3.webp"
+    ]
+  },
+  {
+    "id": 12118762,
+    "name": "Корзина",
+    "description": "Корзина:гербера,хризантема, альстромерия, кустовая роза.",
+    "price": 5000,
+    "oldPrice": null,
+    "category": "Корзины и коробки",
+    "images": [
+      "/flowers/product-12118762-1.webp",
+      "/flowers/product-12118762-2.webp"
+    ]
+  },
+  {
+    "id": 12118761,
+    "name": "Корзина гигант",
+    "description": "Корзина:гербера,хризантема, розы,альстромерия,кустовая роза,эустома.",
+    "price": 10000,
+    "oldPrice": null,
+    "category": "Корзины и коробки",
+    "images": [
+      "/flowers/product-12118761-1.webp",
+      "/flowers/product-12118761-2.webp",
+      "/flowers/product-12118761-3.webp"
+    ]
+  },
+  {
+    "id": 12118760,
+    "name": "Огонь",
+    "description": "Нужны, киви гвоздика, кустовая роза, альстромерия,розы, гиперикум",
+    "price": 10000,
+    "oldPrice": null,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-12118760-1.webp",
+      "/flowers/product-12118760-2.webp"
+    ]
+  },
+  {
+    "id": 12118757,
+    "name": "Сила",
+    "description": "Протея, розы, лотос, эустома, нарине, гиперикум, альстромерия.",
+    "price": 7500,
+    "oldPrice": null,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-12118757-1.webp",
+      "/flowers/product-12118757-2.webp"
+    ]
+  },
+  {
+    "id": 12118756,
+    "name": "Мужской букет",
+    "description": "Мужской букет. Каллы,розы, кустовая роза,трахелиум,альстромерия,аспедистра.",
+    "price": 10000,
+    "oldPrice": null,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-12118756-1.webp",
+      "/flowers/product-12118756-2.webp"
+    ]
+  },
+  {
+    "id": 9258778,
+    "name": "Букет из тюльпанов",
+    "description": "Букет нежность белые тюльпаны",
+    "price": 2500,
+    "oldPrice": null,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-9258778-1.webp"
+    ]
+  },
+  {
+    "id": 9226014,
+    "name": "Букет из тюльпанов",
+    "description": "51шт тюльпанов за 5тыс оформление бесплатно.",
+    "price": 5000,
+    "oldPrice": null,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-9226014-1.webp"
+    ]
+  },
+  {
+    "id": 644338,
+    "name": "свадебный букет 2016г.",
+    "description": "пионы, розы кустовые",
+    "price": 4000,
+    "oldPrice": null,
+    "category": "Свадебные",
+    "images": [
+      "/flowers/product-644338-1.webp",
+      "/flowers/product-644338-2.webp"
+    ]
+  },
+  {
+    "id": 642827,
+    "name": "5. Яркий букет",
+    "description": "Составит : из роз7шт, орхидеи, альстромерии, ирисы, эустомы. Упакован в бумагу крафт.",
+    "price": 2500,
+    "oldPrice": null,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-642827-1.webp"
+    ]
+  },
+  {
+    "id": 309527,
+    "name": "женский букет",
+    "description": "Состав букета: розы хай тенс - 19шт, маттиола -10шт., гиперикум -5шт., зелень салат и эвкалипт.",
+    "price": 5000,
+    "oldPrice": null,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-309527-1.webp",
+      "/flowers/product-309527-2.webp",
+      "/flowers/product-309527-3.webp"
+    ]
+  },
+  {
+    "id": 309508,
+    "name": "женский букет",
+    "description": "Букет состоит: из роз-5 шт, герберы- 3шт, тюльпаны- 11шт, альстромерия- 3шт, зелень эвкалипт, рускус., кустовая роза -3шт.",
+    "price": 3500,
+    "oldPrice": null,
+    "category": "Букеты",
+    "images": [
+      "/flowers/product-309508-1.webp"
+    ]
+  }
+]
